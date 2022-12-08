@@ -1,0 +1,20 @@
+[
+  {
+    "name": "dr cooper",
+    "img": "img/testimonials/4.jpg",
+    "profession": "Vivaco Studio",
+    "details": "I rarely like to write reviews, but the Marketify team truly deserve a standing ovation for their customer support, customisation and most importantly, friendliness and professionalism. Many thanks once again for everything and hope that I get to deal with you again in the near future."
+  },
+  {
+    "name": "Einstain",
+    "img": "img/testimonials/3.jpg",
+    "profession": "physist",
+    "details": "E = m * c2"
+  },
+  {
+    "name": "Dr. Seuss",
+    "img": "img/testimonials/6.jpg",
+    "profession": "teacher",
+    "details": "    “You have to be odd to be No.1.” —Dr. Seuss"
+  }
+]
