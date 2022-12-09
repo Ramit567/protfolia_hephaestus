@@ -36,7 +36,7 @@ const About = ({ dark }) => {
             </div>
             <div className="right">
               <div className="title wow fadeInUp" data-wow-duration="1s">
-                <span>{`I'm a Profrssor`}</span>
+                <span>{`I AM A PROFESSOR`}</span>
                 <h3>I have a Ph.D. in Electrical Engineering from Stanford University</h3>
               </div>
               <div className="text wow fadeInUp" data-wow-duration="1s">
